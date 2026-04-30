@@ -1,28 +1,30 @@
-# Hi, I'm Aditi Rana 👋
+<h1 align="center">Hi 👋, I'm Aditi Rana</h1>
+<h3 align="center">IT Student at IGDTUW • Building practical & user-focused web applications</h3>
 
-### IT Student at IGDTUW | Building practical & user-focused web applications
+---
+
+<p align="center">
+  <em>Focused on creating clean, functional, and meaningful digital experiences</em>
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
 * 🎓 Information Technology student at **IGDTUW**
-* 💡 Interested in Web Development, UI/UX, and Problem Solving
-* 🚀 Building real-world projects
-* 🎯 Focused on creating simple, useful, and impactful applications
+* 💡 Interested in **Web Development, UI/UX, and Problem Solving**
+* 🚀 Building real-world projects to improve practical skills
+* 🎯 Goal: Create applications that are simple, useful, and impactful
 
 ---
 
 ## 🛠 Tech Stack
 
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge\&logo=typescript)
+<p align="center">
 
-![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge\&logo=tailwind-css)
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,react,nodejs,git,github,vscode" />
+
+</p>
 
 ---
 
@@ -30,11 +32,12 @@
 
 ### 🟢 Hireque (Group Project)
 
-Campus Placement Management System built using **React, TypeScript, Tailwind CSS, Vite**
+> Campus Placement Management System
 
-* Designed the **Admin Dashboard interface**
-* Worked on UI structure and layout
-* Collaborated in a team
+* Built using **React, TypeScript, Tailwind CSS, Vite**
+* Designed and developed the **Admin Dashboard interface**
+* Focused on UI structure, layout, and usability
+* Collaborated within a team of developers
 
 🔗 https://github.com/ArniGoyal/Hireque
 
@@ -42,31 +45,50 @@ Campus Placement Management System built using **React, TypeScript, Tailwind CSS
 
 ### 🤖 Chatbot App
 
-Python-based chatbot that handles user queries and simulates conversations
+> Python-based conversational application
+
+* Handles user queries with basic interaction flow
+* Focused on logic building and response handling
 
 ---
 
 ### 📓 Journal App
 
-Built using **TypeScript**
-A platform for journaling, writing notes, and poems
+> Personal journaling & creative writing platform
+
+* Built using **TypeScript**
+* Designed for writing thoughts, notes, and poems
+* Clean and distraction-free interface
 
 ---
 
 ### 💰 Finance Ease
 
-A finance tracker to manage expenses and spending
+> Personal finance tracker
+
+* Tracks expenses and spending habits
+* Focused on simplicity and usability
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" height="160"/>
+</p>
 
 ---
 
 ## 🌱 Currently Exploring
 
 * Full-stack development
-* UI/UX improvements
-* Clean and scalable code
+* Better UI/UX practices
+* Writing clean and scalable code
 
 ---
 
-## ⚡
+## ⚡ Personal Note
 
-I like building things that people can actually use — simple, functional, and meaningful.
+> I enjoy building things that people can actually use —
+> simple, functional, and thoughtfully designed.
