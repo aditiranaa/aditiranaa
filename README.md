@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditi Rana</h1>
-<h3 align="center">IT Student at IGDTUW • Building practical & user-focused web applications</h3>
+<h3 align="center"> Building practical & user-focused web applications</h3>
 
 ---
 
