@@ -71,20 +71,14 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ## 🌱 Currently Exploring
 
 * Full-stack development
+* Python for backend & scripting
+* AI/ML fundamentals
 * Better UI/UX practices
 * Writing clean and scalable code
+
 
 ---
 
