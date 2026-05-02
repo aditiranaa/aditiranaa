@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditi Rana</h1>
+<h1 align="center">Hi, I'm Aditi Rana</h1>
 <h3 align="center"> Building practical & user-focused web applications</h3>
 
 ---
@@ -12,7 +12,7 @@
 ## 👩‍💻 About Me
 
 * 🎓 Information Technology student at **IGDTUW**
-* 💡 Interested in **Web Development, UI/UX, and Problem Solving**
+* 💡 Interested in **Web Development, UI/UX, AI-ML and Problem Solving**
 * 🚀 Building real-world projects to improve practical skills
 * 🎯 Goal: Create applications that are simple, useful, and impactful
 
