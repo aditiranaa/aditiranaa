@@ -66,6 +66,7 @@
 
 > Personal finance tracker
 
+* Built using **HTML5,CSS and JavaScript** 
 * Tracks expenses and spending habits
 * Focused on simplicity and usability
 
