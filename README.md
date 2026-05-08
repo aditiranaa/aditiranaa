@@ -13,8 +13,8 @@
 
 * 🎓 Information Technology student at **IGDTUW**
 * 💡 Interested in **Web Development, UI/UX, AI-ML and Problem Solving**
-* 🚀 Building real-world projects to improve practical skills
-* 🎯 Goal: Create applications that are simple, useful, and impactful
+* 🚀 Building real-world projects to improve practical skills.
+* 🎯 Goal: To reate applications that are simple, useful, and impactful
 
 ---
 
