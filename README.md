@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aditi Rana</h1>
+<h1 align="center">Hi, I am Aditi Rana</h1>
 <h3 align="center"> Building practical & user-focused web applications</h3>
 
 ---
