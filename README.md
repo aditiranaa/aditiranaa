@@ -57,8 +57,8 @@
 > Personal journaling & creative writing platform
 
 * Built using **React, TypeScript, Tailwind CSS**
-* Designed for writing thoughts, notes, and poems
-* Clean and distraction-free interface
+* Designed for writing thoughts, notes, and poems.
+* Clean and distraction-free interface.
 
 ---
 
