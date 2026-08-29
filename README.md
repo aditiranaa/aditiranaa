@@ -30,6 +30,19 @@
 
 ## 🚀 Projects
 
+### 🟢 FinSight AI
+
+> AI-Powered Financial Research & Market Intelligence Platform
+
+* Built an AI-powered financial research platform combining RAG, Google Gemini, and real-time market data
+* Developed features for AI-powered stock analysis, financial report (PDF) analysis, and intelligent financial assistance
+* Integrated real-time stock price charts, financial news, sentiment analysis, watchlists, and portfolio tracking
+* Designed an intuitive dark/light themed interface for exploring financial insights and market trends
+
+🔗 https://github.com/BhoomikaGarg22/FinSightAI
+
+---
+
 ### 🟢 Hireque (Group Project)
 
 > Campus Placement Management System
@@ -52,7 +65,7 @@
 
 ---
 
-### 📓 Journal App
+### 📓 Journal App (WIP)
 
 > Personal journaling & creative writing platform
 
@@ -62,7 +75,7 @@
 
 ---
 
-### 💰 Finance Ease
+### 💰 Finance Ease (WIP)
 
 > Personal finance tracker
 
